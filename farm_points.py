@@ -17,7 +17,7 @@ pa.write(palavra_aleatoria)
 pa.press ('ENTER')
 time.sleep (5)
 
-num_pesquisas = 3
+num_pesquisas = 45
 
 for _ in range(num_pesquisas):
     pa.hotkey('ctrl','t')
