@@ -31,3 +31,9 @@ for _ in range(num_pesquisas):
     time.sleep(10)
     pa.hotkey('ctrl','w')
     time.sleep(5)
+
+    time.sleep(10)
+    pa.hotkey('ctrl','w')
+    time.sleep(5) 
+
+print ('Acabou aqui boy', time)
